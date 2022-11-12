@@ -1,0 +1,7 @@
+
+-o : this option specify if the result needs to be written in file
+-op : this option sprcify whether or not hexadegimal value has to be printed
+--help : show this message
+
+example:
+    hexshow path_to_file -o path_to_output_file -op

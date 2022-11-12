@@ -1,0 +1,6 @@
+build/
+.vscode
+bin
+distribution
+setup.ico
+hexshow.exe
